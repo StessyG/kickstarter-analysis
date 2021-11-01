@@ -1,7 +1,8 @@
 # An analysis of Kickstarter campaigns
 Performing analysis on Kickstarter data to uncover trends
-![Picture1](path/to/Picture1.png)
-![Picture2](path/to/Picture2.png)
+![Picture1](https://user-images.githubusercontent.com/92558898/139620543-b87a97d1-43ad-40f8-af5e-f4a433edeb43.png)
+
+![Picture2](https://user-images.githubusercontent.com/92558898/139620621-53b3276b-daff-4fc6-a537-3539311774e8.png)
 
 # Analysis and Challenges
 
