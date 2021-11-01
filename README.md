@@ -1,6 +1,6 @@
 # An analysis of Kickstarter campaigns
 Performing analysis on Kickstarter data to uncover trends
-![Picture1] (path/to/file/Picture1.png)
+![Picture1] (path/to/file/OneDrive/Pictures/Picture1.png)
 ![Picture2] (path/to/file/Picture2.png)
 
 ![Picture1](https://user-images.githubusercontent.com/92558898/139620543-b87a97d1-43ad-40f8-af5e-f4a433edeb43.png)
