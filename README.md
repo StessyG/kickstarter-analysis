@@ -1,4 +1,19 @@
 # An analysis of Kickstarter campaigns
 Performing analysis on Kickstarter data to uncover trends
-![ParentcatPicture1](path/to/ParentcatPicture1.png)
-![OutcomesPicture2](path/to/OutcomesPicture2.png)
+![Picture1](path/to/Picture1.png)
+![Picture2](path/to/Picture2.png)
+
+# Analysis and Challenges
+
+The analysis was performed using images and charts. I did not encounter any challenge. However, I would recommend paying enough attention to the formulas and the data components chosen for the analysis.
+
+
+# Results
+
+	The Theater Outcomes by Launch Date analysis shows that most of the  shows with theater as a category had positive outcomes, especially those performed between the months of May and July.
+
+
+	The Outcomes based on Goals analysis demonstrates that the shows with a goal less than $5000 have a higher percentager of success.
+
+
+	The other possible tables and/or graphs that could be created for this analysis are Outcomes by launch date chart lines for all the categories as well as a chart line for an analysis on the outcome based on Pledged.
